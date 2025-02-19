@@ -4,7 +4,7 @@
 - **Dynamic Allocation**: Memory is allocated during runtime using:
     - `malloc()`, `calloc()`, `realloc()` in C.
     - `new` and `delete` in C++.
-    - Automatic garbage collection in languages like Java, Python, C#
+    - Automatic garbage collection in languages like Java, Python, [[C-Sharp]]
 
 ### **Memory Management Techniques**
 
